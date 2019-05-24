@@ -1,6 +1,7 @@
 dependencies: []
 
 galaxy_info:
+  role_name: freeipa_ipaclient
   author: Florence Blanc-Renaud, Thomas Woerner
   description: A role to join a machine to an IPA domain
   company: Red Hat, Inc
